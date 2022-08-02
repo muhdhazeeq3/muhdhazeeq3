@@ -1,5 +1,27 @@
+## About Me
+
 - 👋 Hi, I’m @muhdhazeeq3
-- 👀 I’m interested in to learn all that I can on this non-stop evolving technology but I know that in my current life it is not enough time to learn all therefore I'll just start to learn one by one.
+- 👀 I’m interested in learning all that I can on this non-stop evolving technology but I know that in my current life it is not enough time to learn all therefore I'll just start to learn one by one.
+
+## Have Learn Before About
+1. Language
+  - Java
+  - JavaScript
+  - Html
+  - Css
+  - SQL
+2. Software
+  - Android Studio
+  - Visual Studio Code
+  - Eclipse
+  - Firebase
+  - Git
+  - Jira
+3. General
+  - Object Oriented Programming (OOP)
+  - Debugging skill by using breakpoint on eclipse, VSC and browser
+
+## Currently in Progress
 - 🌱 I’m currently learning on how to make a functional website from scratch but right now I slowly learn to make a web using the AngularJS.
 
 <!---
