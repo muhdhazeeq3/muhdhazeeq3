@@ -10,6 +10,7 @@
   - Html
   - Css
   - SQL
+  - PHP
 2. Software
   - Android Studio
   - Visual Studio Code
