@@ -21,7 +21,7 @@
 3. General
   - Object Oriented Programming (OOP)
   - Debugging skill by using breakpoint on eclipse, VSC and browser
-  - API integration
+  - API integration (RESTful API)
 
 ## Currently in Progress
 - 🌱 I’m currently learning on how to make a functional website from scratch but right now I slowly learn to make a web using the AngularJS.
